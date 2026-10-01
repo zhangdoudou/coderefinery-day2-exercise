@@ -1,0 +1,3 @@
+This repository was created for the CodeRefinery Day 2 exercise.
+
+The exercise demonstrates how to create a new Git repository, record changes, and share the project through GitHub.
